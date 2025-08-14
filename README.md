@@ -8,18 +8,18 @@
 | --- | --- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 
-##PROJETOS
+## PROJETOS
 
-##Assistente de Estudos Personalizado
+## Assistente de Estudos Personalizado
 
-##💡 Descrição:
+## 💡 Descrição:
 Percebi que tinha muita dificuldade de focar nos estudos, então comecei a desenvolver um sistema para auxiliar nos meus estudos. O objetivo é organizar matérias, otimizar o tempo de estudo e facilitar o entendimento do que foi aprendido.
 
-##🛠 Funcionalidades atuais:
+## 🛠 Funcionalidades atuais:
 
  - Adicionar e organizar matérias e conteúdos de estudo
 
-##🚀 Funcionalidades em desenvolvimento:
+## 🚀 Funcionalidades em desenvolvimento:
 
  - Estratégia Pomodoro: períodos de foco seguidos de descanso
 
@@ -38,4 +38,4 @@ Percebi que tinha muita dificuldade de focar nos estudos, então comecei a desen
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhenrii__/)  
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2xkHCSpBbr8K7miYoNUxWR?si=LaYoneuvR-mqeHLMu2IOyQ)
 
-##💡  Bruno Braz
+## 💡  Bruno Braz
