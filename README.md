@@ -1,42 +1,62 @@
-## 😄 Hey there, I'm Bruno!
+👋 Olá! Eu sou o Bruno Braz
 
-## 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🧪 Em desenvolvimento para QA (Quality Assurance) | Testes de Software
+💻 Estagiário de Suporte Técnico | Análise e investigação de problemas
 
-## 🚀 Skills e Ferramentas
+Tenho interesse em qualidade de software, testes funcionais, testes de regressão e análise de defeitos. Minha experiência com suporte técnico contribui para o desenvolvimento de uma visão analítica dos sistemas, desde a identificação de comportamentos inesperados até a investigação de possíveis causas e documentação dos resultados.
 
-| **Linguagens** | **Ferramentas** |
-| --- | --- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+Atualmente, estou direcionando meus estudos para QA, buscando aprofundar meus conhecimentos em planejamento e execução de testes, análise de resultados e automação de testes.
 
+🎯 Objetivo profissional
 
-## PROJETOS
+Construir minha carreira em QA, contribuindo para a qualidade, confiabilidade e melhoria contínua de aplicações por meio de testes bem estruturados, análise crítica e documentação clara.
 
-## Assistente de Estudos Personalizado
+🧪 Conhecimentos em QA
 
-## 💡 Descrição:
-Percebi que tinha muita dificuldade de focar nos estudos, então comecei a desenvolver um sistema para auxiliar nos meus estudos. O objetivo é organizar matérias, otimizar o tempo de estudo e facilitar o entendimento do que foi aprendido.
+* Testes funcionais manuais
+* Testes de regressão
+* Elaboração e execução de casos de teste
+* Validação de relatórios e arquivos Excel
+* Testes de fluxos de autorização e notificações
+* Análise inicial de defeitos e mensagens de console
+* Comparação entre resultados esperados e observados
+* Documentação de cenários, resultados e evidências
 
-## 🛠 Funcionalidades atuais:
+🛠️ Skills e ferramentas
 
- - Adicionar e organizar matérias e conteúdos de estudo
+Linguagens de programação
 
-## 🚀 Funcionalidades em desenvolvimento:
+Testes e análise
 
- - Estratégia Pomodoro: períodos de foco seguidos de descanso
+Desenvolvimento e banco de dados
 
- - Resumo automatizado do que foi estudado, auxiliando na revisão e compreensão
+🚀 Projetos
 
-🔗 Link do projeto: https://github.com/Bhenrii/Assistente-de-Estudos
+🧪 QA Software Testing Portfolio
 
-## 📊 Minhas Estatísticas
+Portfólio em desenvolvimento com estudos de caso de testes de software, documentação de cenários, análise de defeitos e validação de funcionalidades.
 
-![Bhenrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhenrii&show_icons=true&theme=dracula)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhenrii&layout=compact&theme=dracula)
+Objetivos do projeto:
 
-## 📫 Como me encontrar
+* Documentar casos de teste com pré-condições, passos e resultados.
+* Demonstrar técnicas de testes funcionais e de regressão.
+* Registrar comportamentos inesperados e suas análises.
+* Desenvolver exemplos demonstrativos com dados fictícios.
+* Evoluir gradualmente para testes de API e automação.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-braz-ads/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhenrii__/)  
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2xkHCSpBbr8K7miYoNUxWR?si=LaYoneuvR-mqeHLMu2IOyQ)
+📚 Assistente de Estudos Personalizado
 
-## 💡  Bruno Braz
+Projeto desenvolvido para auxiliar na organização dos estudos, facilitar o acompanhamento de conteúdos e melhorar a rotina de aprendizagem.
+
+Funcionalidade atual:
+
+* Adicionar e organizar matérias e conteúdos de estudo.
+
+🔗 Acessar o projeto no GitHub
+
+📫 Vamos nos conectar?
+
+⸻
+
+💡 Em constante aprendizado, buscando transformar curiosidade, análise e prática em qualidade de software.
