@@ -45,8 +45,6 @@
 - API Testing & Integration
 - SQL Server Data Validation
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com experiência em suporte técnico e análise de sistemas na Reserve Systems.
-
 Atualmente, estou direcionando minha carreira para Quality Assurance (QA), aprofundando meus conhecimentos em testes manuais, automação de testes e testes de API.
 
 Tenho interesse em compreender o comportamento dos sistemas, identificar inconsistências, validar requisitos e contribuir para a entrega de softwares com qualidade e confiabilidade.
@@ -142,18 +140,6 @@ Tenho interesse em compreender o comportamento dos sistemas, identificar inconsi
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Bhenrii&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&cache_seconds=86400"
-    alt="GitHub Stats"/>
-
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhenrii&layout=compact&theme=merko&hide_border=true&langs_count=8&cache_seconds=86400"
-    alt="Top Languages"/>
-</p>
-
 ### 🔥 Contribution Streak
 
 <p align="center">
@@ -161,17 +147,6 @@ Tenho interesse em compreender o comportamento dos sistemas, identificar inconsi
     src="https://streak-stats.demolab.com/?user=Bhenrii&theme=merko&hide_border=true"
     alt="GitHub Streak"/>
 </p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/Bhenrii">
-    <img width="95%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Bhenrii&theme=github-compact&bg_color=0d1117&color=22c55e&line=16a34a&point=86efac&hide_border=true"
-      alt="Bruno's GitHub Activity Graph"/>
-  </a>
-</p>
----
 
 ## 📚 Currently Learning
 
