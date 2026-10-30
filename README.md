@@ -24,32 +24,26 @@
 
 ## 👨‍💻 About Me
 
-```python
-class BrunoBraz:
+<p align="justify">
+  Olá! Sou Bruno Braz, estudante de Análise e Desenvolvimento
+  de Sistemas e profissional de suporte técnico na Reserve Systems.
 
-    def __init__(self):
-        self.education = "Analysis and Systems Development"
-        self.role = "Technical Support Intern"
-        self.company = "Reserve Systems"
+  Atualmente, direciono meus estudos e minha carreira para
+  Quality Assurance (QA), com foco em testes manuais,
+  automação de testes e testes de API.
 
-        self.areas = [
-            "Quality Assurance",
-            "Manual Testing",
-            "Test Automation",
-            "API Testing"
-        ]
+  Tenho experiência na análise de inconsistências, identificação
+  de falhas, documentação de bugs e validação de correções,
+  buscando contribuir para a qualidade e confiabilidade dos sistemas.
+</p>
 
-        self.technologies = [
-            "Python",
-            "SQL Server",
-            "Cypress",
-            "Postman",
-            "Selenium"
-        ]
+### 🎯 Career Focus
 
-    def career_goal(self):
-        return "QA Engineer"
-```
+- Quality Assurance
+- Manual & Functional Testing
+- Web Test Automation
+- API Testing & Integration
+- SQL Server Data Validation
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com experiência em suporte técnico e análise de sistemas na Reserve Systems.
 
@@ -151,22 +145,32 @@ Tenho interesse em compreender o comportamento dos sistemas, identificar inconsi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhenrii&show_icons=true&theme=merko&hide_border=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhenrii&layout=compact&theme=merko&hide_border=true&langs_count=8"/>
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Bhenrii&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&cache_seconds=86400"
+    alt="GitHub Stats"/>
+
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhenrii&layout=compact&theme=merko&hide_border=true&langs_count=8&cache_seconds=86400"
+    alt="Top Languages"/>
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img width="85%" src="https://streak-stats.demolab.com?user=Bhenrii&theme=merko&hide_border=true"/>
+  <img width="85%"
+    src="https://streak-stats.demolab.com/?user=Bhenrii&theme=merko&hide_border=true"
+    alt="GitHub Streak"/>
 </p>
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhenrii&bg_color=0d1117&color=22c55e&line=16a34a&point=86efac&area=true&hide_border=true"/>
+  <a href="https://github.com/Bhenrii">
+    <img width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Bhenrii&theme=github-compact&bg_color=0d1117&color=22c55e&line=16a34a&point=86efac&hide_border=true"
+      alt="Bruno's GitHub Activity Graph"/>
+  </a>
 </p>
-
 ---
 
 ## 📚 Currently Learning
